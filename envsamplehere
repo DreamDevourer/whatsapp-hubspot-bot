@@ -1,0 +1,10 @@
+# HubSpot Private App Configuration
+HUBSPOT_PRIVATE_APP_TOKEN=xxx
+
+# External Links
+LINK_AGENDAMENTO=https://calendly.com/xxx/virtual-consultation
+LINK_EBOOK=https://xpto.com/ebook-cuidados-saude.pdf
+
+# Server Configuration (optional)
+PORT=3000
+NODE_ENV=development
